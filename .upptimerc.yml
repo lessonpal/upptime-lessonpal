@@ -4,11 +4,10 @@ repo: upptime-lessonpal # The name of this repository
 sites:
   - name: Lessonpal
     url: https://lessonpal.com
+  - name: stagin-env
+    url: https://staging.lessonpal.com
 
 assignees: # Users to assign downtime issues (optional)
-  - sauravpratihar
-  - anshuman-aaa
-  - rashil2000
   - heIsThePirate
  
 status-website:
