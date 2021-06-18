@@ -16,5 +16,23 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "stagin-env",
+    "url": "https://staging.lessonpal.com",
+    "icon": "https://favicons.githubusercontent.com/staging.lessonpal.com",
+    "slug": "stagin-env",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 7512,
+    "timeDay": 7512,
+    "timeWeek": 7512,
+    "timeMonth": 7512,
+    "timeYear": 7512,
+    "dailyMinutesDown": {}
   }
 ]
