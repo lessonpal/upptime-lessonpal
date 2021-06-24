@@ -22,19 +22,19 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/staging.lessonpal.com",
     "slug": "stagin-env",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 2203,
-    "timeDay": 3754,
-    "timeWeek": 2203,
-    "timeMonth": 2203,
-    "timeYear": 2203,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 4035,
+    "timeDay": 7947,
+    "timeWeek": 4035,
+    "timeMonth": 4035,
+    "timeYear": 4035,
     "dailyMinutesDown": {
-      "2021-06-24": 16
+      "2021-06-24": 35
     }
   }
 ]
