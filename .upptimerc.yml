@@ -8,6 +8,8 @@ sites:
     url: https://staging.lessonpal.com
 
 assignees: # Users to assign downtime issues (optional)
+  - sauravpratihar
+  - anshuman-aaa
   - heIsThePirate
  
 status-website:
