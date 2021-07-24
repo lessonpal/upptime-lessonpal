@@ -4,18 +4,20 @@
     "url": "https://lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/lessonpal.com",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 191,
+    "time": 264,
+    "timeDay": 203,
     "timeWeek": 213,
-    "timeMonth": 277,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "timeMonth": 275,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   },
   {
     "name": "stagin-env",
