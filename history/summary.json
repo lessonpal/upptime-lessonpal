@@ -4,10 +4,10 @@
     "url": "https://lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/lessonpal.com",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 620,
@@ -16,6 +16,7 @@
     "timeMonth": 831,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2021-10-09": 1,
       "2021-07-24": 17
     }
   },
