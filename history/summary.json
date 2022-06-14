@@ -4,10 +4,10 @@
     "url": "https://lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/lessonpal.com",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 463,
@@ -16,6 +16,7 @@
     "timeMonth": 370,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2022-06-14": 2,
       "2022-06-04": 12,
       "2021-07-24": 17
     }
@@ -25,9 +26,9 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/staging.lessonpal.com",
     "slug": "stagin-env",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -37,6 +38,7 @@
     "timeMonth": 457,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2022-06-14": 0,
       "2021-07-19": 147,
       "2021-06-24": 35
     }
