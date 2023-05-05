@@ -4,7 +4,7 @@
     "url": "https://lessonpal.com",
     "icon": "https://icons.duckduckgo.com/ip3/lessonpal.com.ico",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 570,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2022-06-30": 15,
       "2022-06-21": 51,
       "2022-06-14": 7,
